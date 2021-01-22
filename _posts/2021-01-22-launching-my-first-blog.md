@@ -1,4 +1,1 @@
----
-author: Mohamed
-toc: true
----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel nibh ante. Sed dignissim gravida neque, nec semper tortor fringilla vitae. Praesent ligula sapien, hendrerit accumsan quam et, posuere mattis lacus. Donec venenatis mi id nisi porttitor faucibus. Suspendisse potenti. Sed leo quam, semper ut dolor in, lobortis consectetur risus.

@@ -285,12 +285,14 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
       show_date: true
+      author: Mohamed
+      toc: true
       
   # _pages
   - scope:
@@ -300,17 +302,18 @@ defaults:
       layout: single
       author_profile: true
 
-  #Categories
-  - scope:
-      path: ""
-      type: tag
-    values:
-      author_profile: true
-  #tags
-  - scope:
-      path: ""
-      type: category
-    values:
-      comments: false
+  # #Categories
+  # - scope:
+  #     path: ""
+  #     type: tag
+  #   values:
+  #     author_profile: true
+
+  # #tags
+  # - scope:
+  #     path: ""
+  #     type: category
+  #   values:
+  #     comments: false
 
 include: ["_pages"]
