@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "ABOUT"
-    url: /about/
   - title: "POSTS"
-    url: /posts/
-  - title: "CATEGORIES"
     description: "Show all categories on the blog!"
     url: /categories/
   - title: "TAGS"
     description: "Show all categories on the blog!"
     url: /tags/
+  - title: "ABOUT"
+    url: /about/
