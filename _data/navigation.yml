@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "categories"
+  - title: "CATEGORIES"
     description: "Show all categories on the blog!"
     url: /categories/
-  - title: "Posts"
+  - title: "POSTS"
     url: /posts/
