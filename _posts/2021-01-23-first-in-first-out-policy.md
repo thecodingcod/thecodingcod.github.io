@@ -1,5 +1,6 @@
 ---
 title: "Policy Definition: First-In-First-Out (FIFO)"
+excerpt_separator: "<!--more-->"
 categories:
   - Definitions 
 tags:
@@ -7,7 +8,7 @@ tags:
   - quote
 ---
 
-> The policy of doing tasks in the same order that they arrive
+> The policy of doing tasks in the same order that they arrive <!--more-->
 > is one that we encounter frequently in everyday life:
 > from people waiting in line at a theater, to cars waiting
 > in line at a toll booth, to tasks waiting to be serviced
@@ -19,3 +20,4 @@ tags:
 > That is precisely the FIFO discipline.
 
 > <cite><a href="https://algs4.cs.princeton.edu/13stacks/">Robert Sedgewick</a></cite>
+
