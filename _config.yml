@@ -97,11 +97,14 @@ author:
   avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **Software Engineer** ."
   location         : "Cairo"
-  email            : tcc.mobenali@gmail.com
+  # email            : tcc.mobenali@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: "Gmail"
+      icon: "fas fa-fw fa-at"
       url: "mailto:tcc.mobenali@gmail.com"
+    - label: "Hotmail"
+      icon: "fas fa-fw fa-at"
+      url: "mailto:tcc.mohamedalihalawa@hotmail.com"
     - label: "Tcc.Blog"
       icon: "fas fa-fw fa-link"
       url: https://thecodingcod.github.io/
