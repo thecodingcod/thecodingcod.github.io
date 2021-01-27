@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "POSTS"
-    url: /archives/year/
+    url: /posts/
   - title: "TAGS"
-    url: /archives/tags/
+    url: /tags/
   - title: "CATEGORIES"
-    url: /archives/categories/
+    url: /categories/
   - title: "RESUME"
     url: /resume/
