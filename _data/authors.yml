@@ -4,10 +4,10 @@ Mohamed:
   name        : "Mohamed Benali"
   bio         : "**Fullstack Developer** with @.Net and @Angular on his way to be a **Software Engineer**"
   avatar      : "/assets/images/profile.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-at"
-      url: "mailto:tcc.mobenali@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_mbenali"
+  # links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-at"
+    #   url: "mailto:tcc.mobenali@gmail.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/_mbenali"
