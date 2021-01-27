@@ -2,9 +2,12 @@
 main:
   - title: "POSTS"
     description: "Show all posts grouped by publishing year!"
-    url: /posts/year/
+    url: /archives/year/
   - title: "TAGS"
     description: "Group all posts by Tag"
-    url: /posts/tags/
+    url: /archives/tags/
+  - title: "CATEGORIES"
+    description: "Group all posts by Category"
+    url: /archives/categories/
   - title: "Resume"
-    url: /posts/resume/
+    url: /resume/
