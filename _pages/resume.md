@@ -1,6 +1,9 @@
 ---
-title: 'Resume'
+title: 'Resume '
 permalink: /resume/
+toc: true
+toc_label: 'Table Of Contents'
+toc_icon: 'list'
 ---
 
 ## Overview
@@ -17,21 +20,21 @@ A Software Developer with over 1 year of experience working on Local business sy
 ## Skills
 
 ### Front-end Stack
-• HTML & HTML5
-• CSS & CSS3
-• Bootstrap
-• JavaScript (ES5, ES6)
-• Type Script
-• jQuery
-• Angular 2
+- HTML & HTML5
+- CSS & CSS3
+- Bootstrap
+- JavaScript (ES5, ES6)
+- Type Script
+- jQuery
+- Angular 2
 
 ### Back-end Stack
-• C#
-• Object-Oriented Programming
-• ADO .NET, LINQ
-• Entity Framework & Entity Framework Core
-• SQL (using MS SQl Server)
-• ASP .NET (.Net Framework & .Net Core)
+- C#
+- Object-Oriented Programming
+- ADO .NET, LINQ
+- Entity Framework & Entity Framework Core
+- SQL (using MS SQl Server)
+- ASP .NET (.Net Framework & .Net Core)
 
 ## Projects
 
