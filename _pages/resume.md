@@ -4,6 +4,8 @@ permalink: /resume/
 toc: true
 toc_label: 'Table Of Contents'
 toc_icon: 'list'
+author_profile: true
+author: Mohamed
 ---
 
 ## Overview
