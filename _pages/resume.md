@@ -38,7 +38,8 @@ A Software Developer with over 1 year of experience working on Local business sy
 
 ### VIX – IAAS (November 2017 - May 2018)
 A Web User Interface, built to manage Kernel Based Virtual Machine (KVM), Allowing Users to Reserve on-demand hardware resources.
-#### Tools & Technologies
+
+**Tools & Technologies**
 - KVM, LIBVIRT (python library to manage KVM via python code).
 - Python, Django and Web Sockets.
 - CentOS 7
@@ -52,9 +53,10 @@ A Web User Interface, built to manage Kernel Based Virtual Machine (KVM), Allowi
 - Accounting System.
 - Currency and bank accounts management system.
 
-#### Tools & Technologies
+**Tools & Technologies**
 
-- KVM, LIBVIRT (python library to manage KVM via python code).
-- Python, Django and Web Sockets.
-- CentOS 7
 - HTML, CSS, Bootstrap and JavaScript
+- Angular 2 (Typescript) (version 7)
+- Bootstrap (RTL, version 4)
+- Net Core version 2.1
+- Entity Framework Core
