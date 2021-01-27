@@ -254,7 +254,7 @@ tag_archive:
   path: /tags/
 year-archive:
   type: jekyll-archives
-  path: /posts/
+  path: /year/
   
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
@@ -267,9 +267,9 @@ jekyll-archives:
     tag: archive-taxonomy
     year: archive-taxonomy
   permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
-    year: /posts/:year
+    category: /archive/categories/:name/
+    tag: /archive/tags/:name/
+    year: archive/year/:year/
 
 
 # HTML Compression
