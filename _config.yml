@@ -267,9 +267,9 @@ jekyll-archives:
     tag: archive-taxonomy
     year: archive-taxonomy
   permalinks:
-    category: /posts/categories/:name/
-    tag: /posts/tags/:name/
-    year: /posts/year/:name
+    category: /categories/:name/
+    tag: /tags/:name/
+    year: /year/:year
 
 
 # HTML Compression
