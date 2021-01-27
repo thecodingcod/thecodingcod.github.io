@@ -269,7 +269,7 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-    year: /year/:year
+    year: /posts/:year
 
 
 # HTML Compression
