@@ -27,7 +27,8 @@ A Software Developer with over 1 year of experience working on Local business sy
 
 ### Back-end Stack
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [ADO .NET](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet), [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
+- [ADO .NET](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet)
+- [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
 - [Entity Framework & Entity Framework Core](https://docs.microsoft.com/en-us/ef/)
 - [SQL (using MS SQl Server)](https://docs.microsoft.com/en-us/sql)
 - [ASP .NET (.Net Framework & .Net Core)](https://www.asp.net)
