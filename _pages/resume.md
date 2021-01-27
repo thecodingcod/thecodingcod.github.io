@@ -18,13 +18,12 @@ A Software Developer with over 1 year of experience working on Local business sy
 ## Skills
 
 ### Front-end Stack
-* HTML & HTML5
-* CSS & CSS3
-* Bootstrap
-* JavaScript (ES5, ES6)
-* Type Script
-* jQuery
-* Angular 2
+* [HTML & HTML5]()
+* [CSS & CSS3]()
+* [Bootstrap]()
+* [JavaScript (ES5, ES6)]()
+* [Type Script]()
+* [Angular]() 
 
 ### Back-end Stack
 - C#
