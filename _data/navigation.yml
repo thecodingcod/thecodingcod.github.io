@@ -3,8 +3,8 @@ main:
   - title: "POSTS"
     description: "Show all posts grouped by publishing year!"
     url: /posts/
-  - title: "TAGS"
+  - title: "/posts/year/"
     description: "Group all posts by Tag"
-    url: /tags/
+    url: /posts/tags/
   - title: "Resume"
     url: /resume/
