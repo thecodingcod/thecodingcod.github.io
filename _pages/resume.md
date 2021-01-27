@@ -9,8 +9,6 @@ toc_icon: 'list'
 ## Overview
 
 A Software Developer with over 1 year of experience working on Local business systems, Skilled with a number of languages including JavaScript, SQL and C# amongst the strengths are my ability to communicate and my desire to learn
-- Military Status: Complete
-- Date of birth: 1996
 
 ## Education
 
@@ -20,13 +18,13 @@ A Software Developer with over 1 year of experience working on Local business sy
 ## Skills
 
 ### Front-end Stack
-- HTML & HTML5
-- CSS & CSS3
-- Bootstrap
-- JavaScript (ES5, ES6)
-- Type Script
-- jQuery
-- Angular 2
+* HTML & HTML5
+* CSS & CSS3
+* Bootstrap
+* JavaScript (ES5, ES6)
+* Type Script
+* jQuery
+* Angular 2
 
 ### Back-end Stack
 - C#
