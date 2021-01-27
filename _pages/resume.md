@@ -18,20 +18,19 @@ A Software Developer with over 1 year of experience working on Local business sy
 ## Skills
 
 ### Front-end Stack
-* [HTML & HTML5]()
-* [CSS & CSS3]()
-* [Bootstrap]()
-* [JavaScript (ES5, ES6)]()
-* [Type Script]()
-* [Angular]() 
+* [HTML & HTML5](https://www.w3.org/html/logo/)
+* [CSS & CSS3](https://www.w3.org/Style/CSS/)
+* [Bootstrap](https://getbootstrap.com/)
+* [JavaScript (ES5, ES6)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+* [Type Script](https://www.typescriptlang.org/)
+* [Angular](https://angular.io/) 
 
 ### Back-end Stack
-- C#
-- Object-Oriented Programming
-- ADO .NET, LINQ
-- Entity Framework & Entity Framework Core
-- SQL (using MS SQl Server)
-- ASP .NET (.Net Framework & .Net Core)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [ADO .NET](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet), [LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
+- [Entity Framework & Entity Framework Core](https://docs.microsoft.com/en-us/ef/)
+- [SQL (using MS SQl Server)](https://docs.microsoft.com/en-us/sql)
+- [ASP .NET (.Net Framework & .Net Core)](https://www.asp.net)
 
 ## Projects
 
